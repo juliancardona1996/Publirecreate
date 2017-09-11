@@ -1,0 +1,14 @@
+Options -Indexes
+
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+RewriteBase /Publirecreate
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+
+RewriteRule ^(.*)$ $1.php
+
+
+</IfModule>

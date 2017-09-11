@@ -16,7 +16,7 @@
   </ul>
         </a></li>
         <li><a href="#" class="btn red">Iniciar sesión</a></li>
-        <li><a href="#" id="navle">Registrarse</a></li>
+        <li><a href="#" id="publica">Publica tu empresa</a></li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="#" id="navle"><a class='dropdown-button' href='#' data-activates='dropdown1'>Nosotros</a>

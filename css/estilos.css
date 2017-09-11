@@ -32,10 +32,18 @@ nav{
 .input1{
 	width: 100%;
 	margin-bottom: 1.4rem;
-	
 	background-color: #ecf2f4;
 	border-radius: 0.2rem;
 	border: none;
+}
+
+#publica{
+	color: #000;
+}
+
+#publica:hover{
+	color: #fff;
+	background: #06923F;
 }
 
 p{

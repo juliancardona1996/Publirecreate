@@ -1,0 +1,43 @@
+nav{
+	background: #fff;
+}
+
+
+#navle{
+	color: #000;
+}
+
+#navle:hover{
+	color: #06923F;
+}
+
+.fondobusc{
+	background: url("https://lh3.googleusercontent.com/2bXQgsxkYthpsQILh-kX0A4fzi21Y40eHYNWCWLDuz6-JNRXN831hRwZhj7SI5kmflE=h900");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 100%;
+}
+
+.input{
+	width: 100%;
+	margin-bottom: 1.4rem;
+	margin-top: 14px;
+	padding: 1rem;
+	background-color: #ecf2f4;
+	border-radius: 0.2rem;
+	border: none;
+}
+
+.input1{
+	width: 100%;
+	margin-bottom: 1.4rem;
+	
+	background-color: #ecf2f4;
+	border-radius: 0.2rem;
+	border: none;
+}
+
+p{
+	color: #000;
+}
